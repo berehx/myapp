@@ -3,3 +3,4 @@
 3.added new branch
 4.added new text "text with awesome style"
 5.new line
+6.new line 2
